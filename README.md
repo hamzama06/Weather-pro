@@ -1,16 +1,22 @@
 # weatherPro
 
-A new Flutter project.
 
-## Getting Started
+## Description
+Weather pro is a weather app built using flutter (dart language)
 
-This project is a starting point for a Flutter application.
+## Screenshots
+![Weather pro mockup](https://user-images.githubusercontent.com/41952694/142768548-bd0d76b8-9ede-4651-aa23-caed100599fc.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependencies
+ - [Provider](https://pub.dev/packages/provider)
+ - [http](https://pub.dev/packages/http)
+ - [geolocator](https://pub.dev/packages/geolocator)
+ - [shared_preferences](https://pub.dev/packages/shared_preferences)
+
+## Resources
+- [Openweathermap](https://api.openweathermap.org)
+- [Unsplash](https://unsplash.com/)  
+- [App-mockup](https://app-mockup.com/)
+
